@@ -2,5 +2,25 @@
 	"agents": [
 		{"address":"Kigali","email":"Ishimwe@gmail.com","fileName":null,"name":"Ishimwe Clement","phone":"0788546789","id":6},
 		{"address":"Kigali / Gikondo","email":"jamesbrown@gmail.com","fileName":"","name":"James","phone":"0788211897","id":12}
+	],
+	"users": [
+		 {
+        "activationCode": null,
+        "activationStatus": null,
+        "createdBy": null,
+        "firstName": "Admin",
+        "lastName": "Test",
+        "modifiedBy": null,
+        "password": "1233",
+        "phone": "250788574604",
+        "accountStatus": "ENABLED",
+        "agentCompany": "",
+        "createdDate": "",
+        "lastModifiedDate": "",
+        "mediaHouse": "",
+        "userGroup":1,
+        "userStatus": "ON"
+    }
+
 	]
 }
