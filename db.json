@@ -17,7 +17,7 @@
 				"userGroup":1,
 				"userStatus": "ON"
 			 },
-			{      
+			 {      
 				"activationCode": null,
 				"activationStatus": null,
 				"createdBy": null,
@@ -27,14 +27,14 @@
 				"password": "mary123!",
 				"phone": "250788211901",
 				"accountStatus": "ENABLED",
-				"agentCompany": "",
+				"agentCompany": 1,
 				"createdDate": "",
 				"lastModifiedDate": "",
 				"mediaHouse": "",
 				"userGroup":3,
 				"userStatus": "ON"
 			   },
-		 	{      
+		           {      
 				"activationCode": null,
 				"activationStatus": null,
 				"createdBy": null,
@@ -71,5 +71,17 @@
 		
 
 
-]
+],
+	"agentaccount":[
+			  {
+				"address": "Kigali",
+				"email": "kuickad@gmail.com",
+				"fileName": null,
+				"name": "KuickAd",
+				"phone": "250788999900",
+				"id": 1
+			  }
+
+
+]	
 }
