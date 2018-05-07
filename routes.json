@@ -7,8 +7,7 @@
   "/useraccount/listAll":"/useraccount",
   "/useraccount/create/":"/useraccount/",
   "/useraccount/update\\?id=:id":"/useraccount/",
-  "/useraccount/remove\\?id=:id":"/useraccount/",
-  
+  "/useraccount/remove\\?id=:id":"/useraccount/"
   
   
 }
