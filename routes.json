@@ -2,5 +2,13 @@
   "/agentaccount/listAll":"/agentaccount",
   "/agentaccount/create/":"/agentaccount/",
   "/agentaccount/update\\?id=:id":"/agentaccount/",
-  "/agentaccount/remove\\?id=:id":"/agentaccount/"
+  "/agentaccount/remove\\?id=:id":"/agentaccount/",
+  
+  "/useraccount/listAll":"/useraccount",
+  "/useraccount/create/":"/useraccount/",
+  "/useraccount/update\\?id=:id":"/useraccount/",
+  "/useraccount/remove\\?id=:id":"/useraccount/",
+  
+  
+  
 }
