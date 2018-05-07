@@ -1,22 +1,22 @@
 {
 	"users": [
-		 {      
-			"activationCode": null,
-			"activationStatus": null,
-			"createdBy": null,
-			"firstName": "Serge",
-			"lastName": "Danson",
-			"modifiedBy": null,
-			"password": "danson123!",
-			"phone": "250788211908",
-			"accountStatus": "ENABLED",
-			"agentCompany": "",
-			"createdDate": "",
-			"lastModifiedDate": "",
-			"mediaHouse": "",
-			"userGroup":1,
-			"userStatus": "ON"
-		   },
+			 {      
+				"activationCode": null,
+				"activationStatus": null,
+				"createdBy": null,
+				"firstName": "Serge",
+				"lastName": "Danson",
+				"modifiedBy": null,
+				"password": "danson123!",
+				"phone": "250788211908",
+				"accountStatus": "ENABLED",
+				"agentCompany": "",
+				"createdDate": "",
+				"lastModifiedDate": "",
+				"mediaHouse": "",
+				"userGroup":1,
+				"userStatus": "ON"
+			 },
 			{      
 				"activationCode": null,
 				"activationStatus": null,
@@ -71,5 +71,5 @@
 		
 
 
-		]
+]
 }
