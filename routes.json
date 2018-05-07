@@ -1,3 +1,6 @@
 {
-  "/agentaccount/listAll":"/agentaccount"
+  "/agentaccount/listAll":"/agentaccount",
+  "/agentaccount/create/":"/agentaccount/",
+  "/agentaccount/update/":"/agentaccount/",
+  "/agentaccount/remove/":"/agentaccount/"
 }
