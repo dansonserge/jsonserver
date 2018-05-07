@@ -1,6 +1,6 @@
 {
   "/agentaccount/listAll":"/agentaccount",
   "/agentaccount/create/":"/agentaccount/",
-  "/agentaccount/update\\?id=:id":"/agentaccount/:id",
-  "/agentaccount/remove\\?id=:id":"/agentaccount/:id"
+  "/agentaccount/update\\?id=:id":"/agentaccount/",
+  "/agentaccount/remove\\?id=:id":"/agentaccount/"
 }
