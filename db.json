@@ -112,5 +112,19 @@
 			  }
 
 
-]	
+],
+	"mediaprogram":[
+			  {
+				"chiefPresenterId": null,
+				"name": "International English News on TV1",
+				"pricePerSecond": 500,
+				"showAllAdvertLength": 10,
+				"showDescription": "English News on TVI",
+				"showLength": 60,
+				"mediaHouse": 4,
+				"status": "ACTIVE",
+				"id":1  
+			    }
+
+]
 }
