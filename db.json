@@ -131,12 +131,25 @@
 			 {
 				"pricePerSecond": 1000,
 				"showAllAdvertLength": 20,
-				"slotEnd": "14:00 AM",
-				"slotStart": "13:00 AM",
+				"slotEnd": "09:00 AM",
+				"slotStart": "08:00 AM",
 				"mediaProgram": 1,
 				"status": "ACTIVE",
 				"id": 1
 			    }
 
+],
+	"customeraccount":[
+			  
+		           {
+				"address": "Kigali",
+				"email": "fdi@gmail.com",
+				"website": "http://www.fdi.com",
+				"name": "FDI LTD",
+				"phone": "250788574604",
+				"id": 1
+			    }
+
+	
 ]
 }
