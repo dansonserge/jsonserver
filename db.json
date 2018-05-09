@@ -126,5 +126,17 @@
 				"id":1  
 			    }
 
+],
+	"programslot":[
+			 {
+				"pricePerSecond": 1000,
+				"showAllAdvertLength": 20,
+				"slotEnd": "14:00 AM",
+				"slotStart": "13:00 AM",
+				"mediaProgram": 1,
+				"status": "ACTIVE",
+				"id": 1
+			    }
+
 ]
 }
