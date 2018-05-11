@@ -151,5 +151,44 @@
 			    }
 
 	
+],
+	"advert":[
+			  {
+				"adCharacterLength": 0,
+				"advertContent": "We are offering cheap and reliable bulk SMS services for both wholesale and retail. you can reach us on phone 0788888",
+				"advertTitle": "SMS at a cheaper price.Makanyaga",
+				"createdBy": null,
+				"creationDate": "10/07/2017",
+				"expirationDate": "11/30/2017",
+				"fileName": null,
+				"lastModifiedDate": null,
+				"modifiedBy": null,
+				"paymentInvoice": null,
+				"playNumber": 5,
+				"referedBy": null,
+				"startDate": "11/04/2017",
+				"adStatus": 1,
+				"advertCategory": 1,
+				"agentCompany": 1,
+				"customerProfile": 1,
+				"userAccount": 1,
+				"id": 1
+			    }
+
+],
+	"advertSlotShow":[
+			    {
+				"expectedNumberOfPlay": 3,
+				"lastPlayedDate": null,
+				"numberPlayed": 0,
+				"adStatus": 1,
+				"advert": 2,
+				"agentCompany": 1,
+				"mediaHouse": 1,
+				"programSlot": 3,
+				"id": 1
+			    }
+
+				
 ]
 }
