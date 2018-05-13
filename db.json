@@ -177,17 +177,7 @@
 
 ],
 	"advertSlotShow":[
-			    {
-				"expectedNumberOfPlay": 3,
-				"lastPlayedDate": null,
-				"numberPlayed": 0,
-				"adStatus": 1,
-				"advert": 2,
-				"agentCompany": 1,
-				"mediaHouse": 1,
-				"programSlot": 3,
-				"id": 1
-			    }
+			    
 
 				
 ]
